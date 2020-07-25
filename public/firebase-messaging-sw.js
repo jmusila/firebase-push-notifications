@@ -10,13 +10,13 @@ Initialize the Firebase app in the service worker by passing in the messagingSen
 * New configuration for app@pulseservice.com
 */
 firebase.initializeApp({
-   apiKey: "AIzaSyChzbmyYbSdof4BovRzYquLEZKTV8-L58k",
-   authDomain: "push-notificatios-a0853.firebaseapp.com",
-   databaseURL: "https://push-notificatios-a0853.firebaseio.com",
-   projectId: "push-notificatios-a0853",
-   storageBucket: "push-notificatios-a0853.appspot.com",
-   messagingSenderId: "182062638208",
-   appId: "1:182062638208:web:428dcb0821563203ba7265"
+    apiKey: '{{env('FIREBASE_API_KEY')}}',
+    authDomain: '{{env('FIREBASE_AUTH_DOMAIN')}}',
+    databaseURL:'{{env('FIREBASE_DATABASE_URL')}}',
+    projectId: '{{env('FIREBASE_PROJECT_ID')}}',
+    storageBucket: '{{env('FIREBASE_STORAGE_BUCKET')}}',
+    messagingSenderId: '{{env('FIREBASE_MESSAGING_SENDER_ID')}}',
+    appId: '{{env('FIREBASE_APP_ID')}}',
 });
 
 /*
