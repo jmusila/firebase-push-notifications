@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/d1ff370147e596c0d21b/maintainability)](https://codeclimate.com/github/jonathanmusila/firebase-push-notifications/maintainability)
+
 ## firebase-laravel-push-notifications
 
 ### How to clone and run the app
