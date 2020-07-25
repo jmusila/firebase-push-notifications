@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/d1ff370147e596c0d21b/maintainability)](https://codeclimate.com/github/jonathanmusila/firebase-push-notifications/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d1ff370147e596c0d21b/maintainability)](https://codeclimate.com/github/jonathanmusila/firebase-push-notifications/maintainability) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## firebase-laravel-push-notifications
 
