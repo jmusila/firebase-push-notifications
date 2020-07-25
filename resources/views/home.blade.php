@@ -63,7 +63,6 @@
                 appId: '{{env('FIREBASE_APP_ID')}}',
             };
             firebase.initializeApp(firebaseConfig);
-            console.log(firebaseConfig);
             const messaging = firebase.messaging();
 
             messaging
