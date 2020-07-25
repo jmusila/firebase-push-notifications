@@ -17,3 +17,4 @@
     - [x] FIREBASE_APP_ID
     - [x] FIREBASE_SERVER_KEY
 
+#### Smile 😃 it works!!
